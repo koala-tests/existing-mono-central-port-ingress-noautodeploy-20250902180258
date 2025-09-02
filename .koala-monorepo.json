@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "name": "existing-mono-central-port-ingress-noautodeploy-20250902180258",
+      "path": "services/existing-mono-central-port-ingress-noautodeploy-20250902180258",
+      "deploymentRepo": "koala-tests/koala-test-central-deploy",
+      "deploymentFolderPath": "services/existing-mono-central-port-ingress-noautodeploy-20250902180258"
+    }
+  ]
+}
